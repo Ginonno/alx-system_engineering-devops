@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo 354 hello
+chmod 354 hello
